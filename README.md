@@ -101,4 +101,5 @@ sf apex test run --code-coverage --result-format human --target-org WanderRoster
 ---
 
 ## 👤 Author
-* **Ketansimha Reddy** ([GitHub](https://github.com/Ketansimha))
+
+- [A. Manjunath (GitHub)](https://github.com/manju123-a)
